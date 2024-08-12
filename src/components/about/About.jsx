@@ -24,18 +24,18 @@ const About = () => {
             <article className="about_card">
               <FaCertificate className="about_icon" />
               <h5>Certificates</h5>
-              <small>7+</small>
+              <small>3</small>
             </article>
             <article className="about_card">
               <FaFolder className="about_icon" />
               <h5>Projects</h5>
-              <small>40+ projects completed</small>
+              <small>10+ projects completed</small>
             </article>
           </div>
           <p>Full Stack Developer with comprehensive knowledge in a wide range of programming languages, 
             including Java, Python, Angular, and JavaScript. Proficient in web development using React.js, 
-            and Node.js and experienced in database management with SQL. Demonstrated skill in secure application 
-            development with the .NET Framework. Well-versed in version control (Git) and DevOps tools (Docker). 
+            Node.js and experienced in database management with SQL. Well-versed in version control (Git) 
+            and DevOps tools (Docker). Created automated testing scripts with Maven/Selenium.
             Adept at implementing the dynamics of scripting languages and constructing foundational frameworks 
             to derive insightful analyses. Passionate about leveraging advanced coding skills to drive innovative 
             solutions and make meaningful contributions to technology-driven projects. 
