@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section id="about">
       <h5>Hey I'm</h5>
-      <h2>Andrew Saifnoorian</h2>
+      <h2>Jamie MohitiAsli F.N.P/M.D.</h2>
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
@@ -19,7 +19,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>15+ Years Working</small>
             </article>
             <article className="about_card">
               <FaCertificate className="about_icon" />
@@ -32,12 +32,7 @@ const About = () => {
               <small>10+ projects completed</small>
             </article>
           </div>
-          <p>
-            Full Stack Developer with comprehensive knowledge in a wide range of
-            programming languages. Passionate about leveraging advanced coding
-            skills to drive innovative solutions and make meaningful
-            contributions to technology-driven projects.
-          </p>
+          <p>Family Nurse Practitioner</p>
           <a href="#project" className="btn btn-primary">
             {" "}
             See my projects
