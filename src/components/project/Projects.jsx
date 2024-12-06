@@ -1,39 +1,25 @@
 import React from "react";
 import "./project.css";
-import IMG1 from "../../assets/heroesLLCpic.png";
-import IMG2 from "../../assets/underMSRP.png";
-import IMG3 from "../../assets/CarM.png";
-// import IMG4 from "../../assets/tasksapp.png";
+import IMG1 from "../../assets/star.png";
+import IMG2 from "../../assets/star.png";
+import IMG3 from "../../assets/star.png";
 
 const projects = [
   {
     id: 1,
     image: IMG1,
-    title: "Heroes Movement LLC",
-    github: "",
-    demo: "https://theheromovement.org/",
+    title: "Patient 1",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Under MSRP App",
-    github: "https://github.com/andrewsafe/BulkEmails",
-    demo: "https://undermsrp.netlify.app/",
+    title: "Patient 2",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Car Maintenance App",
-    github: "https://github.com/SKhan2001/CarTracker",
-    demo: "",
+    title: "Patient 3",
   },
-  // {
-  //   id: 4,
-  //   image: IMG4,
-  //   title: "Tasks Web App",
-  //   github: "https://github.com/andrewsafe/tasks-app",
-  //   demo: "",
-  // },
 ];
 const Projects = () => {
   return (
