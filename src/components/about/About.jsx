@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section id="about">
       <h5>Hey I'm</h5>
-      <h2>Jamie MohitiAsli F.N.P/M.D.</h2>
+      <h2>Jamie Mohiti Asli F.N.P/M.D.</h2>
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-image">
@@ -22,20 +22,34 @@ const About = () => {
               <small>15+ Years Working</small>
             </article>
             <article className="about_card">
+              <FaFolder className="about_icon" />
+              <h5>Treatments</h5>
+              <small>500+ botox injections</small>
+            </article>
+            <article className="about_card">
               <FaCertificate className="about_icon" />
               <h5>Certificates</h5>
               <small>3</small>
             </article>
-            <article className="about_card">
-              <FaFolder className="about_icon" />
-              <h5>Projects</h5>
-              <small>10+ projects completed</small>
-            </article>
           </div>
-          <p>Family Nurse Practitioner</p>
+          <p>
+            Hi, I am a Family Nurse Practitioner (FNP) with over 15 years of
+            experience in medical and cosmetic care. After earning my FNP degree
+            from the College of New Rochelle, I spent over a decade at Mount
+            Sinai Hospital in NYC, specializing in the Liver and Small Bowel
+            Department, where I honed my clinical expertise.
+            <br />
+            For the past 15 years, I have worked alongside Dr. Kassir,
+            specializing in Botox and cosmetic injectables, blending medical
+            precision with an artistic approach to deliver natural,
+            confidence-boosting results. My passion lies in providing
+            compassionate, high-quality care tailored to each patient’s unique
+            needs.
+          </p>
+
           <a href="#project" className="btn btn-primary">
             {" "}
-            See my projects
+            See my successful treatments
           </a>
         </div>
       </div>

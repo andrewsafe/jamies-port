@@ -3,7 +3,7 @@ import "./project.css";
 import IMG1 from "../../assets/heroesLLCpic.png";
 import IMG2 from "../../assets/underMSRP.png";
 import IMG3 from "../../assets/CarM.png";
-import IMG4 from "../../assets/tasksapp.png";
+// import IMG4 from "../../assets/tasksapp.png";
 
 const projects = [
   {
@@ -27,13 +27,13 @@ const projects = [
     github: "https://github.com/SKhan2001/CarTracker",
     demo: "",
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Tasks Web App",
-    github: "https://github.com/andrewsafe/tasks-app",
-    demo: "",
-  },
+  // {
+  //   id: 4,
+  //   image: IMG4,
+  //   title: "Tasks Web App",
+  //   github: "https://github.com/andrewsafe/tasks-app",
+  //   demo: "",
+  // },
 ];
 const Projects = () => {
   return (
