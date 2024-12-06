@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer_logo">
-        Back to top
+        Back to the top
       </a>
       <ul className="permalinks">
         <li>
