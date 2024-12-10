@@ -39,7 +39,7 @@ const About = () => {
             Sinai Hospital in NYC, specializing in the Liver and Small Bowel
             Department, where I honed my clinical expertise.
             <br />
-            For the past 15 years, I have worked alongside Dr. Kassir,
+            For the past 16 years, I have worked alongside Dr. Kassir,
             specializing in Botox and cosmetic injectables, blending medical
             precision with an artistic approach to deliver natural,
             confidence-boosting results. My passion lies in providing
