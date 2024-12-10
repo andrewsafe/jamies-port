@@ -23,7 +23,13 @@ const Nav = () => {
       >
         <FaUser />
       </a>
-      {/* <a href="#project"  onClick={() => setActiveNav('#project')} className={activeNav === '#project' ? 'active' : ''}><FaProjectDiagram /></a> */}
+      <a
+        href="#project"
+        onClick={() => setActiveNav("#project")}
+        className={activeNav === "#project" ? "active" : ""}
+      >
+        <FaProjectDiagram />
+      </a>
       <a
         href="#experience"
         onClick={() => setActiveNav("#experience")}

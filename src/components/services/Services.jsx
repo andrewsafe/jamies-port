@@ -6,90 +6,96 @@ const Services = () => {
   return (
     <section id="services">
       <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h2>Cosmetic Botox Services</h2>
       <div className="container services_container">
         <article className="services">
           <div className="service_head">
-            <h3>Document Workflow Automation & Portal Development</h3>
+            <h3>Botox Treatments for Wrinkle Reduction</h3>
           </div>
           <ul className="service_list">
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Refactoring PDF batch processing algorithms to enhance
-                scalability and efficiency across diverse file structures and
-                organizational hierarchies with Java Springboot and SQL 19.
+                I provide expert-administered Botox treatments to effectively
+                reduce the appearance of fine lines and wrinkles, targeting
+                areas such as the forehead, crow's feet, and frown lines for a
+                smoother, youthful look.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Leading release management processes and spearheading key RFC
-                initiatives to ensure project excellence.
+                Using state-of-the-art techniques, I ensure that results are
+                natural and enhance your facial aesthetics, catering to clients
+                across Bergen County and Manhattan.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Initiating and implementing Selenium projects, reducing software
-                adaptation workload by 2-3 days per site.
+                My personalized consultations allow me to design treatments that
+                align with your unique skin type, lifestyle, and aesthetic
+                goals.
               </p>
             </li>
           </ul>
         </article>
         <article className="services">
           <div className="service_head">
-            <h3>Full-Stack Web Development & Secure Applications</h3>
+            <h3>Facial Contouring & Jawline Refinement</h3>
           </div>
           <ul className="service_list">
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Developing web apps using React.js, Django framework, Tailwind
-                CSS, Express.js, and PostgreSQL.
+                Achieve enhanced facial symmetry and a more defined jawline
+                through Botox treatments designed for non-surgical contouring
+                and refinement.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Leading the development of secure full-stack applications with a
-                focus on data security and seamless payment processing.
+                I provide tailored solutions for both men and women, delivering
+                sculpted and rejuvenated appearances without invasive
+                procedures.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Optimizing workflows and enhancing efficiency for non-profit
-                organizations through innovative technology solutions.
+                Trusted by clients across North Jersey and Manhattan, I pride
+                myself on meticulous attention to detail and exceptional care.
               </p>
             </li>
           </ul>
         </article>
         <article className="services">
           <div className="service_head">
-            <h3>UI/UX Enhancement, IT Systems & Application Optimization</h3>
+            <h3>Preventative Botox & Skincare Consultations</h3>
           </div>
           <ul className="service_list">
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Improving user interaction and satisfaction by optimizing
-                application runtime speed and design.
+                My preventative Botox treatments help maintain youthful skin by
+                addressing early signs of aging and preserving smooth,
+                wrinkle-free features.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Conducting rigorous testing, debugging, and code reviews to
-                enhance application stability and performance.
+                I create customized skincare plans to complement Botox
+                treatments, ensuring optimal results tailored to your needs.
               </p>
             </li>
             <li>
               <FaCheckSquare className="service_list-icon" />
               <p>
-                Collaborating with cross-functional teams to update Git and
-                Github repositories, ensuring smooth integration and
-                communication.
+                By collaborating with top-tier skincare professionals in Bergen
+                County and Manhattan, I provide a holistic approach to your
+                aesthetic journey.
               </p>
             </li>
           </ul>
