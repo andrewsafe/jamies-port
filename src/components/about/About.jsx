@@ -19,7 +19,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>15+ Years Working</small>
+              <small>16+ Years</small>
             </article>
             <article className="about_card">
               <FaFolder className="about_icon" />
@@ -33,7 +33,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hi, I am a Family Nurse Practitioner (FNP) with over 15 years of
+            Hi, I am a Family Nurse Practitioner (FNP) with over 16 years of
             experience in medical and cosmetic care. After earning my FNP degree
             from the College of New Rochelle, I spent over a decade at Mount
             Sinai Hospital in NYC, specializing in the Liver and Small Bowel
