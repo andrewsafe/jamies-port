@@ -47,10 +47,10 @@ const About = () => {
             needs.
           </p>
 
-          <a href="#project" className="btn btn-primary">
+          {/* <a href="#project" className="btn btn-primary">
             {" "}
             See my successful treatments
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
