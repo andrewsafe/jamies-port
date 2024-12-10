@@ -16,9 +16,9 @@ const Footer = () => {
         <li>
           <a href="#about">About</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#project">Patients</a>
-        </li>
+        </li> */}
         <li>
           <a href="#experience">Experience</a>
         </li>
@@ -36,9 +36,9 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/andrewsaifnoorian/">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/andrewsafe">
+        {/* <a href="https://github.com/andrewsafe">
           <FaGithub />
-        </a>
+        </a> */}
         <a
           href="https://andrewsafe.github.io/andrews-portfolio/resume.pdf"
           target="_blank"
